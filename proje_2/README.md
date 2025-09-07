@@ -25,7 +25,7 @@ Kurulum için:
 
 ```python renk_algilayici.py```
 
-4. Kamera açılacak, görüntü üzerinde bir noktaya tıkladığınızda renk adı ve RGB değeri üstte görüntülenecektir.  
+3. Kamera açılacak, görüntü üzerinde bir noktaya tıkladığınızda renk adı ve RGB değeri üstte görüntülenecektir.  
 
 ## Kodun İşleyişi
 
